@@ -1,0 +1,3 @@
+Hello there
+I am hemant.
+I will do git reset --hard now.
